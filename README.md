@@ -6,6 +6,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=FariandiRamadhan&style=flat-square&color=blue" alt="My github profile"/>
+  <img src="https://www.codewars.com/users/RookieXiam/badges/micro"/>
 </div>
 
 ## Hi there, I'm Fariandi Ramadhan 👋
